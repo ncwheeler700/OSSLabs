@@ -6,10 +6,10 @@
 This case of Jesse's fight against the RIAA is just one of many examples of shameless lawsuits in the name of copyrights. The RIAA clearly had no intention of winning the lawsuit, they just wanted to bully the defendants into giving up whatever money they could. There should be statutes put into place at this point protecting providers of a service from possible infractions made by the clients. Otherwise, Google would be facing lawsuits on a near daily basis since it provides easy access to pirated materials.
 
 ## Tree
-![tree](images/tree.png)
+![asdf](images/tree.png)
 
 ## Regexs
-### Q1
+##### Q1
 ![1](images/1.png)
 ![2](images/2.png)
 ![3](images/3.png)
@@ -19,7 +19,7 @@ This case of Jesse's fight against the RIAA is just one of many examples of sham
 ![7](images/7.png)
 ![8](images/8.png)
 
-### Q2
+##### Q2
 ![reg1](images/reg1.png)
 ![reg2](images/reg2.png)
 ![reg3](images/reg3.png)
@@ -28,3 +28,9 @@ This case of Jesse's fight against the RIAA is just one of many examples of sham
 
 ## Maze
 ![Maze](images/maze.png)
+
+## Reflection
+
+One of the most interesting projects in the open source world is Microsoft's dotnet repo.
+It represents a remarkable shift from the company's long established policy of proprietary,
+premium software into the realm of free and open.
