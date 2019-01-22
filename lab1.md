@@ -9,6 +9,7 @@ This case of Jesse's fight against the RIAA is just one of many examples of sham
 ![tree](images/tree.png)
 
 ## Regexs
+### Q1
 ![1](images/1.png)
 ![2](images/2.png)
 ![3](images/3.png)
@@ -17,6 +18,13 @@ This case of Jesse's fight against the RIAA is just one of many examples of sham
 ![6](images/6.png)
 ![7](images/7.png)
 ![8](images/8.png)
+
+### Q2
+![reg1](images/reg1.png)
+![reg2](images/reg2.png)
+![reg3](images/reg3.png)
+![reg4](images/reg4.png)
+
 
 ## Maze
 ![Maze](images/maze.png)
